@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
-<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 👋, \n𝕀𝕞 𝕂𝕚𝕒𝕟</h1>
+<h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋, 𝑰𝒎 𝑲𝒊𝒂𝒏</h1>
 </p>
 
 
